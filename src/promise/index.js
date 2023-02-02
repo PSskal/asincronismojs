@@ -17,4 +17,6 @@ counCowns.then((result)=>{
     console.log(result);
 }).catch((err)=>{
     console.log(err);
+}).finally(()=>{
+    console.log("finally");
 })
