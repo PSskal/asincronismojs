@@ -1,0 +1,25 @@
+{
+  "name": "asincronismojs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricpascual29/asincronismojs.git"
+  },
+  "keywords": [
+    "jasvascript"
+  ],
+  "author": "Richard Pascual Huallpa",
+  "license": "MIT ",
+  "bugs": {
+    "url": "https://github.com/ricpascual29/asincronismojs/issues"
+  },
+  "homepage": "https://github.com/ricpascual29/asincronismojs#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
